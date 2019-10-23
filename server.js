@@ -1,10 +1,4 @@
 const data = require('./json/user.json')
-
-// var fs = require("fs");
-//  var contents = fs.readFileSync("/json/user.json");
-// Define to JSON type
-//  var jsonContent = JSON.parse(contents);
-
 const express = require('express')
 const app = express()
 
